@@ -1,0 +1,86 @@
+# Probabilidades y Estadística C — Segundo cuatrimestre de 2017
+
+## Prácticas
+
+- [Clase práctica 1: Combinatoria](CP1_Combinatoria.pdf)
+- [Clase práctica 2: Probabilidad](CP2_Probabilidad.pdf)
+- [Clase práctica 3: Probabilidad Condicional](CP3_Condicional.pdf)
+- [Clase práctica 4: Independencia y V.A. Discretas](CP4_Indep_Discretas.pdf)
+- [Clase práctica 5: V.A. Discretas, Esperanza y Varianza](CP5_Esperanza_Discretas.pdf)
+- [Clase práctica 6: V.A. Discretas "Famosas"](CP6_Discretas.pdf)
+- [Clase práctica 7: Terminamos con discretas y arrancamos con continuas](CP7_Discretas_Continuas.pdf)
+- [Clase práctica 8: Variables Aleatorias Continuas](CP8_Continuas.pdf)
+- [Clase práctica 10: Variables Aleatorias Continuas (iii)](CP9_Continuas2.pdf)
+- [Clase práctica 12: Vectores Aleatorios (i)](CP12_Vectores.pdf)
+- [Clase práctica 13: Covarianza y correlación](CP14-covarianzaycorrelacion.pdf)
+- [Clase práctica 14: Maximo, Sumas, Generadora de Momentos y más](CP14_MaximoLGN.pdf)
+- [Clase práctica 15: Desigualdad de Chebyshev y teorema central del límite](CP15-TeoremaCentralDelLimite.pdf)
+- [Clase práctica 17: Estadística descriptiva](CP17_Descriptiva.pdf)
+- [Clase práctica 19: Procesos de Poisson](CP19_ProcesosDePoisson.pdf)
+- [Clase práctica 20: Estimación puntual](CP20_Estimacion_Puntual.pdf)
+- [Clase práctica 23: Tests de hipótesis](CP23_Tests.pdf)
+- [Clase práctica 24: Tests de Hipótesis (ii)](CP24_Tests2.pdf)
+- [Clase práctica 25: Tests de Hipótesis (iii)](CP25_Tests3.pdf)
+- [Clase práctica 26: Regresión lineal simple](CP26_Regresion.pdf)
+- [Gráficos de la Práctica 6](graficos6.pdf)
+- [Guía básica de R](guiar.pdf)
+- [Práctica 0](Practica0.pdf)
+- [Práctica 1](practica1.pdf)
+- [Práctica 2](practica2.pdf)
+- [Práctica 3](practica3.pdf)
+- [Práctica 4](practica4.pdf)
+- [Práctica 5](practica5.pdf)
+- [Práctica 6](Practica6.pdf)
+- [Práctica 7](practica7.pdf)
+- [Práctica 8](practica8.pdf)
+- [Práctica 9](practica9.pdf)
+- [Práctica 10](practica10.pdf)
+- [Clase práctica 22](Practica22noche.pdf)
+- [Anexo de la Práctica 3](practicapc1.pdf)
+- [Anexo de la Práctica 5](PracticaPC2.pdf)
+- [Clase práctica 10](ProbaC_clase10v2.pdf)
+
+## Tablas
+
+- [Tabla Chi Cuadrado](tabla_chicuadrado.pdf)
+- [Tabla t de Student](tabla_tstudent.pdf)
+- [Tabla Binomial](tbinom.pdf)
+- [Tabla Normal](tnormal.pdf)
+- [Tabla Poisson](tpoisson.pdf)
+
+## Apuntes y notas
+
+- [Clase práctica 2](clase2.pdf)
+- [Clase práctica 14](Clase%203-10.pdf)
+- [Enunciado con resolución](Clase%2016%20-%20Enunciado%20y%20resolucion%20del%20ejercicio%20de%20la%20Clase%20de%20Estadistica%20Descriptiva.pdf)
+- [Clase práctica 17](Clase%2019-10%20actualizada.pdf)
+- [Clase práctica 25](Clase%2025%20noche%20R.pdf)
+- [Clase práctica 1](Ejercicios%20para%20la%20Clase%201.pdf)
+- [Clase práctica 3](Ejercicios%20para%20la%20Clase%203.pdf)
+- [Clase práctica 4](Ejercicios%20para%20la%20Clase%204.pdf)
+- [Clase práctica 5](Ejercicios%20para%20la%20Clase%205.pdf)
+- [Clase práctica 7](Ejercicios%20para%20la%20Clase%207.pdf)
+- [Clase práctica 8](Ejercicios%20para%20la%20Clase%208.pdf)
+- [Clase práctica 9](Ejercicios%20para%20la%20Clase%209.pdf)
+- [Clase práctica 12](Ejercicios%20para%20la%20Clase%2012.pdf)
+- [Clase práctica 15](Ejercicios%20para%20la%20Clase%2015.pdf)
+- [Enunciado (solo)](Ejercicios%20para%20la%20Clase%2016.pdf)
+- [Clase práctica 19](Ejercicios%20para%20la%20Clase%2019.pdf)
+- [Clase práctica 20](Ejercicios%20para%20la%20Clase%2020%202017C2.pdf)
+- [Clase práctica 21](Ejercicios%20para%20la%20Clase%2021.pdf)
+- [Clase práctica 23](Ejercicios%20para%20la%20Clase%2023.pdf)
+- [Clase práctica 24](Ejercicios%20para%20la%20Clase%2024.pdf)
+- [Clase práctica 26](Ejercicios%20para%20la%20Clase%2026.pdf)
+- [Clase práctica 6](ProbaC_clase6_TN.pdf)
+- [Clase práctica 13](ProbaC_clase13.pdf)
+- [Clase práctica 18](ProbaC_clase18%281%29.pdf)
+- [Apuntes de la Dra. Elena Martinez y la Dra. Ana Bianco](PyEC.pdf)
+- [Resumen de distribuciones](resumendistribuciones.pdf)
+
+## Otros materiales
+
+- [Resolución en R.](regresionresuelto.pdf)
+
+## Página original
+
+[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2017/probabilidades_y_estadistica_C)
